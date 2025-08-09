@@ -1,0 +1,11 @@
+{
+    "CodeGPT.apiKey": "Grok",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylintEnabled": false
+}
